@@ -1,0 +1,6 @@
+outs:
+- md5: 0ed368d36e04c00b70f2bcc47c0a6c77.dir
+  size: 2039
+  nfiles: 1
+  hash: md5
+  path: .github
